@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cbddcf7c3128b4a8fe3bc62f9ca7fd, type: 3}
+  m_Name: ColourChoice
+  m_EditorClassIdentifier: 
+  id: 3
+  pawnsColor: Yellow
+  playerName: 
+  roadSprite: {fileID: 21300000, guid: cb02f433ad4960845b6a4339528bf726, type: 3}
+  colonySprite: {fileID: 21300000, guid: 85f91548608fef9488ceeb8dfc10d768, type: 3}
+  citySprite: {fileID: 21300000, guid: a440d587209503e458b7203ab98d3380, type: 3}
+  ressources: []
+  roads: []
+  buildings: []
